@@ -9,7 +9,7 @@
     android:paddingBottom="16dp"
     android:paddingRight="16dp"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.codepath.nytimesearch.SearchActivity"
+    tools:context="com.codepath.nytimesearch.activities.SearchActivity"
     tools:showIn="@layout/activity_search">
 
     <EditText
